@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 🎓 **Senior Computer Engineering Student**
+
 📍 Konya, Turkey
+
 💡 Passionate about **Machine Learning & Software Development**
 
 ---
