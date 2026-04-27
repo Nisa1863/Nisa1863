@@ -33,19 +33,6 @@ SQL • Git • GitHub
 
 ---
 
-##  Projects
-
-*  **Hospital Management System**
-  → Developed using Object-Oriented Programming principles
-
-*  **Agenda App (C Programming)**
-  → A simple task and schedule tracking application
-
-*  **Credit Scoring System (Thesis Project)**
-  → Machine Learning-based financial risk analysis system
-
----
-
 ##  Contact
 
 *  LinkedIn:(https://www.linkedin.com/in/nisa-nur-özdal-369417253/)
